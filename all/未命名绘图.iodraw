@@ -63,11 +63,9 @@
             <mxPoint x="114.57522123893806" y="29.626966292134835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lmua02v3twNhuh79oG7z-20" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="114.57522123893806" y="36.53033707865169" as="sourcePoint" />
-            <mxPoint x="114.57522123893806" y="51.0561797752809" as="targetPoint" />
+        <mxCell id="lmua02v3twNhuh79oG7z-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lmua02v3twNhuh79oG7z-19">
+          <mxGeometry x="-0.5663" y="-14" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-21" value="应急知识库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="lmua02v3twNhuh79oG7z-2">
