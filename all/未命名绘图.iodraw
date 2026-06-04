@@ -56,21 +56,20 @@
         <mxCell id="lmua02v3twNhuh79oG7z-15" value="应急日常管理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="lmua02v3twNhuh79oG7z-2">
           <mxGeometry x="46" y="266" width="226" height="445" as="geometry" />
         </mxCell>
-        <mxCell id="lmua02v3twNhuh79oG7z-17" value="应急演练管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-15">
-          <mxGeometry x="43" y="206" width="156" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-18" value="应急培训管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-15">
           <mxGeometry x="43" y="355" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="lmua02v3twNhuh79oG7z-19" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-15" target="lmua02v3twNhuh79oG7z-17">
+        <mxCell id="lmua02v3twNhuh79oG7z-19" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="121" y="106" as="sourcePoint" />
+            <mxPoint x="121" y="206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lmua02v3twNhuh79oG7z-20" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-15" source="lmua02v3twNhuh79oG7z-17" target="lmua02v3twNhuh79oG7z-18">
+        <mxCell id="lmua02v3twNhuh79oG7z-20" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-15" target="lmua02v3twNhuh79oG7z-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="121" y="254" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-21" value="应急知识库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="lmua02v3twNhuh79oG7z-2">
@@ -151,6 +150,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-49" value="应急检查管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-2">
+          <mxGeometry x="260" y="790" width="156" height="48" as="geometry" />
+        </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-45" value="大屏端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1591" y="343" width="199" height="315" as="geometry" />
         </mxCell>
@@ -163,8 +165,8 @@
         <mxCell id="lmua02v3twNhuh79oG7z-48" value="资源调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-45">
           <mxGeometry x="46" y="240" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="lmua02v3twNhuh79oG7z-49" value="应急检查管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="109" y="344" width="156" height="48" as="geometry" />
+        <mxCell id="lmua02v3twNhuh79oG7z-50" value="应急演练管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="109" y="492" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
