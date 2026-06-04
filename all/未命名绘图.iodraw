@@ -63,16 +63,6 @@
             <mxPoint x="114.57522123893806" y="29.626966292134835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lmua02v3twNhuh79oG7z-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lmua02v3twNhuh79oG7z-19">
-          <mxGeometry x="-0.5663" y="-14" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lmua02v3twNhuh79oG7z-55" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lmua02v3twNhuh79oG7z-19">
-          <mxGeometry x="0.2425" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-21" value="应急知识库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="lmua02v3twNhuh79oG7z-2">
           <mxGeometry x="347" y="266" width="226" height="445" as="geometry" />
         </mxCell>
