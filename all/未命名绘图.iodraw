@@ -276,7 +276,7 @@
           <mxGeometry x="60" y="380" width="60" height="138" as="geometry" />
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-91" value="应急培训管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672C4;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
-          <mxGeometry x="450" y="790" width="156" height="48" as="geometry" />
+          <mxGeometry x="210" y="580" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-92" value="应急日常管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ED7D31;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
           <mxGeometry x="89" y="280" width="156" height="48" as="geometry" />
