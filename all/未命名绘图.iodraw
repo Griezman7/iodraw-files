@@ -154,7 +154,7 @@
         <mxCell id="lmua02v3twNhuh79oG7z-50" value="应急演练管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672c4;" vertex="1" parent="lmua02v3twNhuh79oG7z-2">
           <mxGeometry x="89" y="780" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="lmua02v3twNhuh79oG7z-51" value="应急培训管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-2">
+        <mxCell id="lmua02v3twNhuh79oG7z-51" value="应急培训管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672C4;" vertex="1" parent="lmua02v3twNhuh79oG7z-2">
           <mxGeometry x="450" y="790" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-45" value="大屏端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
