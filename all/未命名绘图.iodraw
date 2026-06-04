@@ -54,13 +54,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-15" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#ED7D31;fontColor=#FFFFFF;" vertex="1" parent="lmua02v3twNhuh79oG7z-2">
-          <mxGeometry x="46" y="266" width="214" height="64" as="geometry" />
+          <mxGeometry x="80" y="266" width="214" height="64" as="geometry" />
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-19" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="114.57522123893806" y="15.244943820224721" as="sourcePoint" />
             <mxPoint x="114.57522123893806" y="29.626966292134835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-56" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lmua02v3twNhuh79oG7z-19">
+          <mxGeometry x="0.1711" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-21" value="应急知识库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="lmua02v3twNhuh79oG7z-2">
