@@ -284,6 +284,12 @@
         <mxCell id="lmua02v3twNhuh79oG7z-92" value="应急日常管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ED7D31;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
           <mxGeometry x="89" y="280" width="156" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-94" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="470" as="sourcePoint" />
+            <mxPoint x="490" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
