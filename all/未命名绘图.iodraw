@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-70" value="应急知识库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
-          <mxGeometry x="347" y="266" width="226" height="445" as="geometry" />
+          <mxGeometry x="1010" y="290" width="226" height="445" as="geometry" />
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-71" value="应急法规知识" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-70">
           <mxGeometry x="43" y="58" width="156" height="48" as="geometry" />
