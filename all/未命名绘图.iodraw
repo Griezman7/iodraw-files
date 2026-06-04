@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Yv55DqG0XHEBbW0z4xd1">
-    <mxGraphModel dx="913" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,6 +146,140 @@
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-48" value="资源调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-45">
           <mxGeometry x="46" y="240" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-57" value="PC端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="1521" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-58" value="应急处置" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
+          <mxGeometry x="1266" y="43" width="226" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-59" value="响应启动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-58">
+          <mxGeometry x="59" y="58" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-60" value="首次会议组织" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-58">
+          <mxGeometry x="43" y="206" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-61" value="应急处置指挥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-58">
+          <mxGeometry x="43" y="355" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-62" value="应急资源调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-58">
+          <mxGeometry x="43" y="503" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-63" value="应急现场处置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-58">
+          <mxGeometry x="43" y="652" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-64" value="事件总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-58">
+          <mxGeometry x="59" y="800" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-65" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-58" source="lmua02v3twNhuh79oG7z-59" target="lmua02v3twNhuh79oG7z-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-66" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-58" source="lmua02v3twNhuh79oG7z-60" target="lmua02v3twNhuh79oG7z-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-67" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-58" source="lmua02v3twNhuh79oG7z-61" target="lmua02v3twNhuh79oG7z-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-68" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-58" source="lmua02v3twNhuh79oG7z-62" target="lmua02v3twNhuh79oG7z-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-69" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-58" source="lmua02v3twNhuh79oG7z-63" target="lmua02v3twNhuh79oG7z-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-70" value="应急知识库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
+          <mxGeometry x="347" y="266" width="226" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-71" value="应急法规知识" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-70">
+          <mxGeometry x="43" y="58" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-72" value="应急措施知识" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-70">
+          <mxGeometry x="43" y="206" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-73" value="应急事件档案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-70">
+          <mxGeometry x="43" y="355" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-74" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-70" source="lmua02v3twNhuh79oG7z-71" target="lmua02v3twNhuh79oG7z-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-75" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-70" source="lmua02v3twNhuh79oG7z-72" target="lmua02v3twNhuh79oG7z-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-76" value="应急准备" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
+          <mxGeometry x="648" y="43" width="274" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-77" value="应急队伍管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-76">
+          <mxGeometry x="67" y="58" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-78" value="物资装备管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-76">
+          <mxGeometry x="67" y="206" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-79" value="应急人员及专家管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-76">
+          <mxGeometry x="43" y="355" width="204" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-80" value="应急机构管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-76">
+          <mxGeometry x="67" y="503" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-81" value="应急通讯录管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-76">
+          <mxGeometry x="59" y="652" width="172" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-82" value="应急预案管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="lmua02v3twNhuh79oG7z-76">
+          <mxGeometry x="67" y="800" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-83" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-76" source="lmua02v3twNhuh79oG7z-77" target="lmua02v3twNhuh79oG7z-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-84" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-76" source="lmua02v3twNhuh79oG7z-78" target="lmua02v3twNhuh79oG7z-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-85" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-76" source="lmua02v3twNhuh79oG7z-79" target="lmua02v3twNhuh79oG7z-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-86" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-76" source="lmua02v3twNhuh79oG7z-80" target="lmua02v3twNhuh79oG7z-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-87" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="lmua02v3twNhuh79oG7z-76" source="lmua02v3twNhuh79oG7z-81" target="lmua02v3twNhuh79oG7z-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-88" value="" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" visible="0" parent="lmua02v3twNhuh79oG7z-57" source="lmua02v3twNhuh79oG7z-70" target="lmua02v3twNhuh79oG7z-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-89" value="应急检查管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672C4;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
+          <mxGeometry x="260" y="790" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-90" value="应急演练管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672c4;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
+          <mxGeometry x="89" y="780" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-91" value="应急培训管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672C4;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
+          <mxGeometry x="450" y="790" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-92" value="应急演练管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672c4;" vertex="1" parent="1">
+          <mxGeometry x="179" y="960" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
