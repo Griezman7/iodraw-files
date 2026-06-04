@@ -239,6 +239,9 @@
         <mxCell id="lmua02v3twNhuh79oG7z-92" value="应急日常管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ED7D31;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
           <mxGeometry x="89" y="280" width="156" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="lmua02v3twNhuh79oG7z-98" value="应急日常管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ED7D31;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
+          <mxGeometry x="440" y="280" width="156" height="48" as="geometry" />
+        </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-76" value="应急准备" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1610" y="670" width="274" height="890" as="geometry" />
         </mxCell>
@@ -289,9 +292,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="lmua02v3twNhuh79oG7z-98" value="应急日常管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ED7D31;" vertex="1" parent="1">
-          <mxGeometry x="179" y="460" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
