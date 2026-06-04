@@ -272,7 +272,7 @@
         <mxCell id="lmua02v3twNhuh79oG7z-89" value="应急检查管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672C4;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
           <mxGeometry x="260" y="790" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="lmua02v3twNhuh79oG7z-90" value="应急演练管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672c4;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
+        <mxCell id="lmua02v3twNhuh79oG7z-90" value="应急演练管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672c4;textDirection=vertical-lr;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
           <mxGeometry x="89" y="780" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="lmua02v3twNhuh79oG7z-91" value="应急培训管理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#4672C4;" vertex="1" parent="lmua02v3twNhuh79oG7z-57">
